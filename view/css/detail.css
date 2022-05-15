@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ccc;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Add padding to containers */
+  .container {
+      margin-top: 20px;
+      padding: 16px;
+      background-color: white;
+  }
+  img{
+      width: 100%;
+  }
+  a{
+      float: right;
+  }
